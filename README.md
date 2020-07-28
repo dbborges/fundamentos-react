@@ -1,5 +1,5 @@
-Código desenvolvido no curso "React JS Curso Rápido ⚛️ Masterclass #1 e #2 2020 - 100% Prático!" promovido pela Cod3r Cursos 
-https://www.youtube.com/watch?v=XQxitgyZ_S4
+Código desenvolvido no curso "React JS Curso Rápido ⚛️ Masterclass #1 e #2 2020 - 100% Prático!" promovido pela Cod3r Cursos <br />
+https://www.youtube.com/watch?v=XQxitgyZ_S4<br />
 https://www.youtube.com/watch?v=GJ8Vm-h0V8I
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
